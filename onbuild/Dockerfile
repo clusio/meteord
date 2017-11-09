@@ -1,4 +1,4 @@
-FROM abernix/meteord:base
+FROM clusio/meteord:node-4.8.6-base
 MAINTAINER MeteorHacks Pvt Ltd.
 
 ARG NODE_VERSION
